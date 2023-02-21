@@ -1,0 +1,70 @@
+
+body{
+font-family: 'Roboto', sans-serif;;
+background-color: bisque;
+}
+.list{
+    list-style: none;
+}
+.link{
+    text-decoration: none;
+}
+.header {}
+.header-list{}
+
+.header-navigation {}
+
+.header-logo {}
+
+.header-item {
+        
+}
+
+.header-link {  font-weight: 500;
+                font-size: 16px;
+                line-height: 1.5;
+                letter-spacing: 0.02em;
+                color: #2E2F42;
+}
+
+
+.Contacts {}
+
+.header-email {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+         color: #434455;
+}
+
+.header-tel {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+/* Hero sectio */
+.hero {}
+
+.hero-slogan {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF
+
+}
+
+.hero-btn {
+        font-family: 'Roboto',sans-serif;;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.04em;
+        color: #FFFFFF;
+}
